@@ -8,16 +8,16 @@ I have used Keras to build a LSTM to predict stock prices using historical closi
 The challenge of this project is to accurately predict the future closing value of a given stock across a given period of time in the future. For this project I have used a Long Short Term Memory networks – usually just called “LSTMs” to predict the closing price of the S&P 500 using a dataset of past prices
 
 # Achievements:
-Built a model to accurately predict the future closing price of a given stock, using Long Short Term Memory Neural net algorithm__
-Achieved Mean Squared Error rating of just 0.00093063.__
+Built a model to accurately predict the future closing price of a given stock, using Long Short Term Memory Neural net algorithm  
+Achieved Mean Squared Error rating of just 0.00093063.  
 
 Things i have learnt by completing this project:
 
-. How to apply deep learning techniques: Long Short Term Memory Neural Network algorithms.__
-. How to use keras-tensorflow library.__
-. How to collect and preprocess given data.__
-. How to analyze model's performance.__
-. How to optimise Long Short Term Memory Neural Network algortithm, to ensure increase in postive results.__
+. How to apply deep learning techniques: Long Short Term Memory Neural Network algorithms.  
+. How to use keras-tensorflow library.  
+. How to collect and preprocess given data.  
+. How to analyze model's performance.  
+. How to optimise Long Short Term Memory Neural Network algortithm, to ensure increase in postive results.  
 
 # Other Related Projects:
 
@@ -26,8 +26,8 @@ Things i have learnt by completing this project:
 This project uses the following software and Python libraries:
 
 Python 2.7
-NumPy__
-pandas__
-Keras__
-Tensor-flow__
-Jupyter Notebook__
+NumPy  
+pandas  
+Keras  
+Tensor-flow  
+Jupyter Notebook  
