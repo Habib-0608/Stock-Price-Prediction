@@ -13,11 +13,11 @@ Predicted and plotted the stock pric for the next 30 days.
 
 Things i have learnt by completing this project:
 
-..* How to apply deep learning techniques: **Long Short Term Memory Neural Network algorithms**.  
-..* How to use keras-tensorflow library.  
-..* How to collect and preprocess time series data.  
-..* How to analyze model's performance.  
-..* How to optimise Long Short Term Memory Neural Network algortithm, to ensure increase in postive results.  
+  * How to apply deep learning techniques: **Long Short Term Memory Neural Network algorithms**.  
+  * How to use keras-tensorflow library.  
+  * How to collect and preprocess time series data.  
+  * How to analyze model's performance.  
+  * How to optimise Long Short Term Memory Neural Network algortithm, to ensure increase in postive results.  
 
 ## Other Related Projects:
 
